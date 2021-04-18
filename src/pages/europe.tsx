@@ -36,7 +36,7 @@ export default function Europe() {
             <Flex align="left" justify="space-between" direction="column" w="100%" p="6">
                 <Text fontSize="4xl" fontWeight="bold" mb="8" >Cidades +100</Text>
 
-                <SimpleGrid columns={[2, 4]} spacing="10">
+                <SimpleGrid columns={[1, 4]} spacing="10">
                     <Flex direction="column" justify="center" align="center" border="1px solid yellow.500" w="100%">
                         <Image src="/images/foto.png" alt="cidade" />
                         <Flex align="center" justify="space-between" w="100%" p="4">
